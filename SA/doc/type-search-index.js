@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.lithan.sendmail","l":"Email"},{"p":"com.lithan.controllers","l":"MailController"}]
